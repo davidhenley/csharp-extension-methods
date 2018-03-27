@@ -1,7 +1,6 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 
-namespace ExtensionMethods
+namespace System
 {
     public static class StringExtensions
     {
